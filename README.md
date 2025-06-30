@@ -1,5 +1,7 @@
 # 🧙‍♂️ Wesa - Terminal Araç Menüsü
 
+[![Last Commit](https://img.shields.io/github/last-commit/ahmethsnl/wesa_shell?style=flat)](https://github.com/ahmethsnl/wesa_shell/commits)
+
 ## Genel Bakış
 
 **Wesa**, Linux/macOS terminalinde çalışan, tüm sık kullandığım araçları tek bir yerden başlatmayı sağlayan bir **küçük menü** scriptidir.  
