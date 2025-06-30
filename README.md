@@ -81,10 +81,3 @@ MIT Lisansı — Herkese açık ve ücretsiz. Katkı ve önerileriniz için GitH
 
 ---
 
-## Son Söz (Kendi Görüşüm)
-
-Bence `wesa` gibi küçük ama etkili bir menü, günlük terminal kullanımında zamandan ve efordan büyük tasarruf sağlar. Sadece üç aracın bile böyle kolay ulaşılması, seni bir terminal ninjasına dönüştürür. Tabii bu benim kişisel görüşüm, senin için ne kadar faydalı olur zamanla anlayacağız. Ama açıkçası ben olsam böyle bir aracı olmazsa olmaz yapardım, denemekten zarar gelmez, değil mi? 😉
-
----
-
-Başka istek olursa, detaylandırmaya hazırım!
